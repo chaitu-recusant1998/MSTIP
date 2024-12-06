@@ -59,3 +59,6 @@ Outcome: Delivered a high-performing spam email classifier ready for real-world 
 * Ensemble Techniques: Explore advanced models like voting classifiers and stacking for further optimization.
 * Scalability Testing: Evaluate performance on larger, more diverse datasets.
 * Real-Time Application: Deploy the model for live spam detection systems.
+
+  ## To run the app please type 'streamlit run app.py' in pycharm terminal and see the magic happen.
+
